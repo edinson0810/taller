@@ -63,7 +63,7 @@ return suma;
     return contadorPares > 0 ? sumarPares / contadorPares : 0;
  }
 
- 
+
 
 
 
